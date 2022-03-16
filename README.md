@@ -14,7 +14,7 @@
 </p>
 
 <h3 align="center">
-  <a href="">Contribute</a>
+  <a href="https://github.com/Knowcode-AI/FlutterVision/issues">Contribute</a>
   <span> · </span>
   <a href="https://discord.gg/sd3eh9dkRM">Community</a>
   <span> · </span>
